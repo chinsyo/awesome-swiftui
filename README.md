@@ -10,8 +10,8 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 
 ## Index
 
-* [Tutorials](#tutorials)
-* [Libraries](#libraries)
+* [Tutorials](#tutorials) ✅
+* [Libraries](#libraries) 
 * [Snippets](#snippets)
 
 ## Tutorials
