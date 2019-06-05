@@ -2,7 +2,7 @@
 
 ---
 
-A curated list of awesome SwiftUI libraries and snippets.
+A curated list of awesome SwiftUI libraries and sessions.
 
 ## Contributing
 
@@ -10,10 +10,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 
 ## Index
 
-- [awesome-swiftui](#awesome-swiftui)
-  
-  	* [Websites](#websites)
-    
+  - [Websites](#websites) 
   - [Tutorials](#tutorials)
   - [Libraries](#libraries)
   - [Sessions](#sessions)
@@ -73,8 +70,3 @@ Apple Developer Program required.
 | [SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216) |
 | [SwiftUI On All Devices](https://developer.apple.com/videos/play/wwdc2019/240) |
 | [SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219) |
-
-
-
-
-
