@@ -13,10 +13,10 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 - [awesome-swiftui](#awesome-swiftui)
   
   	* [Websites](#websites)
-  
+    
   - [Tutorials](#tutorials)
   - [Libraries](#libraries)
-  - [Snippets](#snippets)
+  - [Sessions](#sessions)
 
 ## Websites
 
@@ -54,16 +54,22 @@ Apple Developer Program required.
 | Repo                                                         | Snapshot                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [devxoul/SwiftUITodo](https://github.com/devxoul/SwiftUITodo) | ![](https://user-images.githubusercontent.com/931655/58843349-f6dbf400-8626-11e9-8227-fbd369c29515.png) |
-|                                                              |                                                              |
 
 
 
-## Snippets
+## Sessions
 
-| Repo | Snippet |
-| ---- | ------- |
-|      |         |
-|      |         |
+| Topic                                                        |
+| ------------------------------------------------------------ |
+| [Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/) |
+| [Accessibility in SwiftUI](https://developer.apple.com/videos/play/wwdc2019/238) |
+| [Building Custom Views with SwiftUI](https://developer.apple.com/videos/play/wwdc2019/237) |
+| [Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226) |
+| [Integrating SwiftUI](https://developer.apple.com/videos/play/wwdc2019/231) |
+| [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233) |
+| [SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216) |
+| [SwiftUI On All Devices](https://developer.apple.com/videos/play/wwdc2019/240) |
+| [SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219) |
 
 
 
