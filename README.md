@@ -54,6 +54,9 @@ Apple Developer Program required.
 | Repo                                                         | Snapshot                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [devxoul/SwiftUITodo](https://github.com/devxoul/SwiftUITodo) | ![](https://user-images.githubusercontent.com/931655/58843349-f6dbf400-8626-11e9-8227-fbd369c29515.png) |
+| [marty-suzuki/GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) | ![](https://user-images.githubusercontent.com/2082134/58905672-41539280-8745-11e9-99e3-cb3c3c4991f0.png) |
+| [ra1028/SwiftUI-Combine-Example](https://github.com/ra1028/SwiftUI-Combine-Example) | ![](https://github.com/ra1028/SwiftUI-Combine-Example/raw/master/assets/sample.png) |
+| [nataliemarleny/SwiftUI](https://github.com/nataliemarleny/SwiftUI) | ![](https://github.com/nataliemarleny/SwiftUI/raw/master/Creating-and-Combining-Views/screenshot-swiftUI-natalie-marleny.png) |
 
 
 
