@@ -59,7 +59,8 @@ Apple Developer Program required.
 | [alexpaul/SwiftUI-Landmarks](https://github.com/alexpaul/SwiftUI-Landmarks) |                                                              |
 | [Yohrd/iOS-Portfolio-Rodrigo](https://github.com/Yohrd/iOS-Portfolio-Rodrigo) |                                                              |
 | [ra1028/SwiftUI-Flux](https://github.com/ra1028/SwiftUI-Flux) | ![](https://github.com/ra1028/SwiftUI-Flux/raw/master/assets/sample.gif) |
-
+| [unixzii/SwiftUI-2048](https://github.com/unixzii/SwiftUI-2048) |                                                              |
+| [agiletalk/SwiftUINote](https://github.com/agiletalk/SwiftUINote)||
 
 
 ## Sessions
@@ -84,4 +85,7 @@ Apple Developer Program required.
 | Hacking with Swift [Get started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui) |      |
 | SwiftRocks [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) |      |
 | 知乎专栏[@黄二少碎碎念](https://zhuanlan.zhihu.com/hjcapple) [SwiftUI 的 DSL 语法分析](https://zhuanlan.zhihu.com/p/68294674) |      |
+| WWDC by Sundell [A first look at SwiftUI: Apple's declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/) |     |
+| WWDC by Sundell [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/) |      |
+| Majid's [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) |     |
 
