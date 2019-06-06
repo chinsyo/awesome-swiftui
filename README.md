@@ -88,4 +88,4 @@ Apple Developer Program required.
 | WWDC by Sundell [A first look at SwiftUI: Apple's declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/) |     |
 | WWDC by Sundell [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/) |      |
 | Majid's [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) |     |
-
+| 知乎专栏[@CyanTalks](https://zhuanlan.zhihu.com/cyantalks) [从 SwiftUI 谈声明式 UI 与类型系统](https://zhuanlan.zhihu.com/p/68275232) |      |
