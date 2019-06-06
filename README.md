@@ -55,6 +55,7 @@ Apple Developer Program required.
 * [ra1028/SwiftUI-Flux](https://github.com/ra1028/SwiftUI-Flux)
 * [unixzii/SwiftUI-2048](https://github.com/unixzii/SwiftUI-2048)
 * [agiletalk/SwiftUINote](https://github.com/agiletalk/SwiftUINote)
+* [artemnovichkov/SwiftUI-by-Examples](https://github.com/artemnovichkov/SwiftUI-by-Examples)
 
 
 ## Sessions
