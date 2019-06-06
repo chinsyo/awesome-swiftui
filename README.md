@@ -55,6 +55,9 @@ Apple Developer Program required.
 | [marty-suzuki/GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) | ![](https://user-images.githubusercontent.com/2082134/58905672-41539280-8745-11e9-99e3-cb3c3c4991f0.png) |
 | [ra1028/SwiftUI-Combine-Example](https://github.com/ra1028/SwiftUI-Combine-Example) | ![](https://github.com/ra1028/SwiftUI-Combine-Example/raw/master/assets/sample.png) |
 | [nataliemarleny/SwiftUI](https://github.com/nataliemarleny/SwiftUI) | ![](https://github.com/nataliemarleny/SwiftUI/raw/master/Creating-and-Combining-Views/screenshot-swiftUI-natalie-marleny.png) |
+| [timdonnelly/SwiftUITimeTravel](https://github.com/timdonnelly/SwiftUITimeTravel) |                                                              |
+| [alexpaul/SwiftUI-Landmarks](https://github.com/alexpaul/SwiftUI-Landmarks) |                                                              |
+| [Yohrd/iOS-Portfolio-Rodrigo](https://github.com/Yohrd/iOS-Portfolio-Rodrigo) |                                                              |
 
 
 
@@ -74,7 +77,9 @@ Apple Developer Program required.
 
 ## Articles
 
-| Topic                                                        |
-| ------------------------------------------------------------ |
-| onevcat小专栏  [SwiftUI 的一些初步探索 (一)](https://xiaozhuanlan.com/topic/7652341890) |
+| Topic                                                        |      |
+| ------------------------------------------------------------ | ---- |
+| onevcat小专栏  [SwiftUI 的一些初步探索 (一)](https://xiaozhuanlan.com/topic/7652341890) |      |
+| Hacking with Swift [Get started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui) |      |
+| SwiftRocks [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) |      |
 
