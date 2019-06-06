@@ -58,6 +58,7 @@ Apple Developer Program required.
 | [timdonnelly/SwiftUITimeTravel](https://github.com/timdonnelly/SwiftUITimeTravel) |                                                              |
 | [alexpaul/SwiftUI-Landmarks](https://github.com/alexpaul/SwiftUI-Landmarks) |                                                              |
 | [Yohrd/iOS-Portfolio-Rodrigo](https://github.com/Yohrd/iOS-Portfolio-Rodrigo) |                                                              |
+| [ra1028/SwiftUI-Flux](https://github.com/ra1028/SwiftUI-Flux) | ![](https://github.com/ra1028/SwiftUI-Flux/raw/master/assets/sample.gif) |
 
 
 
