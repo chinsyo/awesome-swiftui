@@ -79,7 +79,8 @@ Apple Developer Program required.
 
 | Topic                                                        |      |
 | ------------------------------------------------------------ | ---- |
-| onevcat小专栏  [SwiftUI 的一些初步探索 (一)](https://xiaozhuanlan.com/topic/7652341890) |      |
+| 小专栏[@onevcat](https://xiaozhuanlan.com/u/onevcat) [SwiftUI 的一些初步探索 (一)](https://xiaozhuanlan.com/topic/7652341890) |      |
 | Hacking with Swift [Get started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui) |      |
 | SwiftRocks [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) |      |
+| 知乎专栏[@黄二少碎碎念](https://zhuanlan.zhihu.com/hjcapple) [SwiftUI 的 DSL 语法分析](https://zhuanlan.zhihu.com/p/68294674) |      |
 
