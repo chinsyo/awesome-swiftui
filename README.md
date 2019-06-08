@@ -47,26 +47,25 @@ Apple Developer Program required.
 
 ## Libraries
 
-* [devxoul/SwiftUITodo](https://github.com/devxoul/SwiftUITodo)
-* [marty-suzuki/GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI)
-* [ra1028/SwiftUI-Combine-Example](https://github.com/ra1028/SwiftUI-Combine-Example)
-* [nataliemarleny/SwiftUI](https://github.com/nataliemarleny/SwiftUI)
-* [timdonnelly/SwiftUITimeTravel](https://github.com/timdonnelly/SwiftUITimeTravel)
-* [alexpaul/SwiftUI-Landmarks](https://github.com/alexpaul/SwiftUI-Landmarks)
-* [Yohrd/iOS-Portfolio-Rodrigo](https://github.com/Yohrd/iOS-Portfolio-Rodrigo)
-* [ra1028/SwiftUI-Flux](https://github.com/ra1028/SwiftUI-Flux)
-* [unixzii/SwiftUI-2048](https://github.com/unixzii/SwiftUI-2048)
-* [agiletalk/SwiftUINote](https://github.com/agiletalk/SwiftUINote)
-* [artemnovichkov/SwiftUI-by-Examples](https://github.com/artemnovichkov/SwiftUI-by-Examples)
-* [jrtibbetts/TempusRomanumII](https://github.com/jrtibbetts/TempusRomanumII)
-* [hotchner/SwiftUICalculator](https://github.com/hotchner/SwiftUICalculator)
-* [YOONMS/WWDCPlayer](https://github.com/YOONMS/WWDCPlayer)
-* [leavenstee/InstaFake-Swift-UI](https://github.com/leavenstee/InstaFake-Swift-UI)
-* [Dimillian/MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
-* [alexdrone/DispatchStore](https://github.com/alexdrone/DispatchStore)
-* [miliPolo/SwiftUI_Jike](https://github.com/miliPolo/SwiftUI_Jike)
-* [danielctull/SwiftUI-Tutorials](https://github.com/danielctull/SwiftUI-Tutorials)
-* [robbiet480/TransitPal](https://github.com/robbiet480/TransitPal)
+* [devxoul/SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI which is introduced in WWDC19
+* [marty-suzuki/GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) - SwiftUI and Combine based GitHubSearch example.
+* [ra1028/SwiftUI-Combine-Example](https://github.com/ra1028/SwiftUI-Combine-Example) - This is an example project of SwiftUI and Combine using GitHub API.
+* [timdonnelly/SwiftUITimeTravel](https://github.com/timdonnelly/SwiftUITimeTravel) - An experimental time traveling state store for SwiftUI
+* [alexpaul/SwiftUI-Landmarks](https://github.com/alexpaul/SwiftUI-Landmarks) - Introducing SwiftUI. A declarative way to create User Interfaces with Swift.
+* [Yohrd/iOS-Portfolio-Rodrigo](https://github.com/Yohrd/iOS-Portfolio-Rodrigo) - Portfolio criado em Swift 5.1 (Beta) e SwiftUI
+* [ra1028/SwiftUI-Flux](https://github.com/ra1028/SwiftUI-Flux) - This is a tiny experimental application using SwiftUI with Flux architecture.
+* [unixzii/SwiftUI-2048](https://github.com/unixzii/SwiftUI-2048) - A 2048 game writing with SwiftUI.
+* [agiletalk/SwiftUINote](https://github.com/agiletalk/SwiftUINote) - Simple note app using SwiftUI
+* [artemnovichkov/SwiftUI-by-Examples](https://github.com/artemnovichkov/SwiftUI-by-Examples) - Examples of new SwiftUI framework
+* [jrtibbetts/TempusRomanumII](https://github.com/jrtibbetts/TempusRomanumII) - The SwiftUI implementation of TempusRomanum
+* [hotchner/SwiftUICalculator](https://github.com/hotchner/SwiftUICalculator) - A calculator app using SwiftUI which is introduced in WWDC19
+* [YOONMS/WWDCPlayer](https://github.com/YOONMS/WWDCPlayer) - WWDC19 player using SwiftUI 
+* [leavenstee/InstaFake-Swift-UI](https://github.com/leavenstee/InstaFake-Swift-UI) - Swift UI Demo for an instagram copy
+* [Dimillian/MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API
+* [alexdrone/DispatchStore](https://github.com/alexdrone/DispatchStore) - Package that implements an operation based multi-store à-la Flux for SwiftUI.
+* [miliPolo/SwiftUI_Jike](https://github.com/miliPolo/SwiftUI_Jike) - Build Jike App UI with SwiftUI
+* [danielctull/SwiftUI-Tutorials](https://github.com/danielctull/SwiftUI-Tutorials) - All of the SwiftUI tutorials in one easy download.
+* [robbiet480/TransitPal](https://github.com/robbiet480/TransitPal) - A open source Swift app for iOS 13 that allows you to check your NFC transit card information. Written with SwiftUI.
 
 ## Sessions
 
