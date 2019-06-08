@@ -66,6 +66,7 @@ Apple Developer Program required.
 * [alexdrone/DispatchStore](https://github.com/alexdrone/DispatchStore)
 * [miliPolo/SwiftUI_Jike](https://github.com/miliPolo/SwiftUI_Jike)
 * [danielctull/SwiftUI-Tutorials](https://github.com/danielctull/SwiftUI-Tutorials)
+* [robbiet480/TransitPal](https://github.com/robbiet480/TransitPal)
 
 ## Sessions
 
