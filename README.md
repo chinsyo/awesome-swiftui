@@ -63,6 +63,9 @@ Apple Developer Program required.
 * [YOONMS/WWDCPlayer](https://github.com/YOONMS/WWDCPlayer)
 * [leavenstee/InstaFake-Swift-UI](https://github.com/leavenstee/InstaFake-Swift-UI)
 * [Dimillian/MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
+* [alexdrone/DispatchStore](https://github.com/alexdrone/DispatchStore)
+* [miliPolo/SwiftUI_Jike](https://github.com/miliPolo/SwiftUI_Jike)
+* [danielctull/SwiftUI-Tutorials](https://github.com/danielctull/SwiftUI-Tutorials)
 
 ## Sessions
 
