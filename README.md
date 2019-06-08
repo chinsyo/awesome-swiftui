@@ -92,7 +92,7 @@ Apple Developer Program required.
 * Medium[@Mohammad Sawalha](https://medium.com/@themedo8000) - [SwiftUI Are we saying goodbye to IB(UIStoryboard) ?](https://medium.com/@themedo8000/swiftui-are-we-saying-goodbye-to-ib-718035e83b07)
 * Medium[@Martin Lasek](https://medium.com/@martinlasek) - [Tutorial: How to setup a SwiftUI project](https://medium.com/@martinlasek/swiftui-getting-started-372389fff423)
 * Medium[@Martin Rybak](https://medium.com/@martinrybak) - [What SwiftUI Means for Flutter](https://medium.com/flutter-nyc/what-swiftui-means-for-flutter-6d5898f7adf7)
-* Medium[彼得潘的 iOS App Neverland](https://medium.com/@apppeterpan) - [SwiftUI 程式開發初體驗](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/swiftui-%E7%A8%8B%E5%BC%8F%E9%96%8B%E7%99%BC%E5%88%9D%E9%AB%94%E9%A9%97-aea9122741b1)
+* Medium[@彼得潘的 iOS App Neverland](https://medium.com/@apppeterpan) - [SwiftUI 程式開發初體驗](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/swiftui-%E7%A8%8B%E5%BC%8F%E9%96%8B%E7%99%BC%E5%88%9D%E9%AB%94%E9%A9%97-aea9122741b1)
 * Medium[@Martin Lasek](https://medium.com/@martinlasek) - [SwiftUI - How to setup a project](https://medium.com/@martinlasek/swiftui-getting-started-372389fff423)
 * Medium[@Antoine Barrault](https://medium.com/@ant_one) - [How To Make a Simple Countdown Timer with SwiftUI](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986)
 * Medium[@Martin Lasek](https://medium.com/@martinlasek) [SwiftUI - Understanding State](https://medium.com/@martinlasek/swiftui-understanding-state-8afa23fd9f1f)
