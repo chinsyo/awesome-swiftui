@@ -1,4 +1,4 @@
-# Awesome SwiftUI [🧭 browser](https://chinsyo.com/awesome-swiftui)
+# Awesome SwiftUI [🧭 view in browser](https://chinsyo.com/awesome-swiftui)
 
 A curated list of awesome SwiftUI tutorials, libraries, sessions and articles.
 
@@ -81,27 +81,27 @@ Apple Developer Program required.
 
 ## Articles
 
-* Hacking with Swift - [Get started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui)
-* SwiftRocks - [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html)
-* WWDC by Sundell - [A first look at SwiftUI: Apple's declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/)
-* WWDC by Sundell - [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/)
-* Majid's - [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/)
-* 小专栏[@onevcat](https://xiaozhuanlan.com/u/onevcat) - [SwiftUI 的一些初步探索 (一)](https://xiaozhuanlan.com/topic/7652341890)
-* 知乎专栏[@黄二少碎碎念](https://zhuanlan.zhihu.com/hjcapple) - [SwiftUI 的 DSL 语法分析](https://zhuanlan.zhihu.com/p/68294674)
-* 知乎专栏[@CyanTalks](https://zhuanlan.zhihu.com/cyantalks) - [从 SwiftUI 谈声明式 UI 与类型系统](https://zhuanlan.zhihu.com/p/68275232)
-* Medium[@Mohammad Sawalha](https://medium.com/@themedo8000) - [SwiftUI Are we saying goodbye to IB(UIStoryboard) ?](https://medium.com/@themedo8000/swiftui-are-we-saying-goodbye-to-ib-718035e83b07)
-* Medium[@Martin Lasek](https://medium.com/@martinlasek) - [Tutorial: How to setup a SwiftUI project](https://medium.com/@martinlasek/swiftui-getting-started-372389fff423)
-* Medium[@Martin Rybak](https://medium.com/@martinrybak) - [What SwiftUI Means for Flutter](https://medium.com/flutter-nyc/what-swiftui-means-for-flutter-6d5898f7adf7)
-* Medium[@彼得潘的 iOS App Neverland](https://medium.com/@apppeterpan) - [SwiftUI 程式開發初體驗](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/swiftui-%E7%A8%8B%E5%BC%8F%E9%96%8B%E7%99%BC%E5%88%9D%E9%AB%94%E9%A9%97-aea9122741b1)
-* Medium[@Martin Lasek](https://medium.com/@martinlasek) - [SwiftUI - How to setup a project](https://medium.com/@martinlasek/swiftui-getting-started-372389fff423)
-* Medium[@Antoine Barrault](https://medium.com/@ant_one) - [How To Make a Simple Countdown Timer with SwiftUI](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986)
-* Medium[@Martin Lasek](https://medium.com/@martinlasek) [SwiftUI - Understanding State](https://medium.com/@martinlasek/swiftui-understanding-state-8afa23fd9f1f)
-* Medium[@Balraj Singh](https://medium.com/@erbalrajs) - [Understanding SwiftUI in depth](https://medium.com/techtron/understanding-swiftui-in-depth-58d42614619e)
-* Medium[@Jille van der Weerd](https://medium.com/@JillevdWeerd) - [A Skeptics view on SwiftUI](https://medium.com/@JillevdWeerd/a-skeptics-view-on-swiftui-cc6636b6fd3b)
-* Medium[@Jasper Haggenburg](https://medium.com/@jpunt) - [Optionals in SwiftUI](https://medium.com/q42-engineering/swiftui-optionals-ead04edd439f)
-* Medium[@Dmytro Anokhin](https://medium.com/@dmytro.anokhin) - [URL Image view in SwiftUI](https://medium.com/@dmytro.anokhin/url-image-view-in-swiftui-f08f85d942d8)
-* Medium[@Luca Kiedrowski](https://medium.com/@luca.kiedrowski) - [What Swift UI means to current Apps and Frameworks](https://medium.com/@luca.kiedrowski/what-swift-ui-means-to-current-apps-and-frameworks-goodbye-hybrid-apps-77479a1ba0d9)
-* Medium[@Nick Halavins](https://medium.com/@halavins) - [How to build a Chat App or Messenger in SwiftUI for iOS Swift](https://medium.com/@halavins/how-to-build-a-chat-app-or-messenger-in-swiftui-for-ios-swift-b46dbe5cc0ab)
-* Medium[@Johannes Nevels](https://medium.com/@Johannes_Nevels) - [Presenting UIViewControllers in SwiftUI](https://medium.com/@Johannes_Nevels/presenting-uiviewcontrollers-in-swiftui-22388616a24c)
-* iCalvin.dev - [A Week With SwiftUI](https://icalvin.dev/post/403)
-* Medium[@Ahmad Fayyas](https://medium.com/@ahmadfayyas) - [SwiftUI, First Impression](https://medium.com/@ahmadfayyas/swiftui-first-impression-37a734fa6f02)
+* [Get started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui) - Hacking with Swift
+* [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) - SwiftRocks
+* [A first look at SwiftUI: Apple's declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/) - WWDC by Sundell
+* [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/) - WWDC by Sundell
+* [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) - Majid's
+* [SwiftUI 的一些初步探索 (一)](https://xiaozhuanlan.com/topic/7652341890) - 小专栏[@onevcat](https://xiaozhuanlan.com/u/onevcat)
+* [SwiftUI 的 DSL 语法分析](https://zhuanlan.zhihu.com/p/68294674) - 知乎专栏[@黄二少碎碎念](https://zhuanlan.zhihu.com/hjcapple)
+* [从 SwiftUI 谈声明式 UI 与类型系统](https://zhuanlan.zhihu.com/p/68275232) - 知乎专栏[@CyanTalks](https://zhuanlan.zhihu.com/cyantalks)
+* [SwiftUI Are we saying goodbye to IB(UIStoryboard) ?](https://medium.com/@themedo8000/swiftui-are-we-saying-goodbye-to-ib-718035e83b07) - Medium[@Mohammad Sawalha](https://medium.com/@themedo8000)
+* [Tutorial: How to setup a SwiftUI project](https://medium.com/@martinlasek/swiftui-getting-started-372389fff423) - Medium[@Martin Lasek](https://medium.com/@martinlasek)
+* [What SwiftUI Means for Flutter](https://medium.com/flutter-nyc/what-swiftui-means-for-flutter-6d5898f7adf7) - Medium[@Martin Rybak](https://medium.com/@martinrybak)
+* [SwiftUI 程式開發初體驗](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/swiftui-%E7%A8%8B%E5%BC%8F%E9%96%8B%E7%99%BC%E5%88%9D%E9%AB%94%E9%A9%97-aea9122741b1) - Medium[@彼得潘的 iOS App Neverland](https://medium.com/@apppeterpan)
+* [SwiftUI - How to setup a project](https://medium.com/@martinlasek/swiftui-getting-started-372389fff423) - Medium[@Martin Lasek](https://medium.com/@martinlasek)
+* [How To Make a Simple Countdown Timer with SwiftUI](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986) - Medium[@Antoine Barrault](https://medium.com/@ant_one)
+* [SwiftUI - Understanding State](https://medium.com/@martinlasek/swiftui-understanding-state-8afa23fd9f1f) - Medium[@Martin Lasek](https://medium.com/@martinlasek)
+* [Understanding SwiftUI in depth](https://medium.com/techtron/understanding-swiftui-in-depth-58d42614619e) - Medium[@Balraj Singh](https://medium.com/@erbalrajs)
+* [A Skeptics view on SwiftUI](https://medium.com/@JillevdWeerd/a-skeptics-view-on-swiftui-cc6636b6fd3b) - Medium[@Jille van der Weerd](https://medium.com/@JillevdWeerd)
+* [Optionals in SwiftUI](https://medium.com/q42-engineering/swiftui-optionals-ead04edd439f) - Medium[@Jasper Haggenburg](https://medium.com/@jpunt)
+* [URL Image view in SwiftUI](https://medium.com/@dmytro.anokhin/url-image-view-in-swiftui-f08f85d942d8) - Medium[@Dmytro Anokhin](https://medium.com/@dmytro.anokhin)
+* [What Swift UI means to current Apps and Frameworks](https://medium.com/@luca.kiedrowski/what-swift-ui-means-to-current-apps-and-frameworks-goodbye-hybrid-apps-77479a1ba0d9) - Medium[@Luca Kiedrowski](https://medium.com/@luca.kiedrowski)
+* [How to build a Chat App or Messenger in SwiftUI for iOS Swift](https://medium.com/@halavins/how-to-build-a-chat-app-or-messenger-in-swiftui-for-ios-swift-b46dbe5cc0ab) - Medium[@Nick Halavins](https://medium.com/@halavins)
+* [Presenting UIViewControllers in SwiftUI](https://medium.com/@Johannes_Nevels/presenting-uiviewcontrollers-in-swiftui-22388616a24c) - Medium[@Johannes Nevels](https://medium.com/@Johannes_Nevels)
+* [A Week With SwiftUI](https://icalvin.dev/post/403) - iCalvin.dev
+* [SwiftUI, First Impression](https://medium.com/@ahmadfayyas/swiftui-first-impression-37a734fa6f02) - Medium[@Ahmad Fayyas](https://medium.com/@ahmadfayyas)
