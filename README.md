@@ -1,8 +1,6 @@
-# Awesome SwiftUI
+# Awesome SwiftUI [🧭 browser](https://chinsyo.com/awesome-swiftui)
 
 A curated list of awesome SwiftUI tutorials, libraries, sessions and articles.
-
----
 
 ## Contributing
 
@@ -26,7 +24,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 Apple Developer Program required.
 ```
 <details open>
-  <summary>Beta Software download</summary>
+  <summary>Beta Software <a href="https://developer.apple.com/download/">download</a></summary>
   <ul><li>Xcode 11 Beta <a href="https://developer.apple.com/services-account/download?path=/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip">Download</a></li>
   <li>iOS 13 Beta <a href="https://developer.apple.com/download/#ios-restore-images-iphone-new">Download Restore Images</a></li>
   <li>iPadOS 13 Beta <a href="https://developer.apple.com/download/#ios-restore-images-ipad-new">Download Restore Images</a></li>
