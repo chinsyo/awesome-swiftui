@@ -105,3 +105,4 @@ Apple Developer Program required.
 * Medium[@Nick Halavins](https://medium.com/@halavins) - [How to build a Chat App or Messenger in SwiftUI for iOS Swift](https://medium.com/@halavins/how-to-build-a-chat-app-or-messenger-in-swiftui-for-ios-swift-b46dbe5cc0ab)
 * Medium[@Johannes Nevels](https://medium.com/@Johannes_Nevels) - [Presenting UIViewControllers in SwiftUI](https://medium.com/@Johannes_Nevels/presenting-uiviewcontrollers-in-swiftui-22388616a24c)
 * iCalvin.dev - [A Week With SwiftUI](https://icalvin.dev/post/403)
+* Medium[@Ahmad Fayyas](https://medium.com/@ahmadfayyas) - [SwiftUI, First Impression](https://medium.com/@ahmadfayyas/swiftui-first-impression-37a734fa6f02)
