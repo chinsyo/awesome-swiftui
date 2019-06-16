@@ -87,6 +87,7 @@ Apple Developer Program required.
 * [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/) - WWDC by Sundell
 * [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) - Majid's
 * [SwiftUI 的一些初步探索 (一)](https://xiaozhuanlan.com/topic/7652341890) - 小专栏[@onevcat](https://xiaozhuanlan.com/u/onevcat)
+* [SwiftUI 的一些初步探索 (二)](https://xiaozhuanlan.com/topic/5346879201) - 小专栏[@onevcat](https://xiaozhuanlan.com/u/onevcat)
 * [SwiftUI 的 DSL 语法分析](https://zhuanlan.zhihu.com/p/68294674) - 知乎专栏[@黄二少碎碎念](https://zhuanlan.zhihu.com/hjcapple)
 * [从 SwiftUI 谈声明式 UI 与类型系统](https://zhuanlan.zhihu.com/p/68275232) - 知乎专栏[@CyanTalks](https://zhuanlan.zhihu.com/cyantalks)
 * [SwiftUI Are we saying goodbye to IB(UIStoryboard) ?](https://medium.com/@themedo8000/swiftui-are-we-saying-goodbye-to-ib-718035e83b07) - Medium[@Mohammad Sawalha](https://medium.com/@themedo8000)
