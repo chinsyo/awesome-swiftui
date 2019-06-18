@@ -66,6 +66,7 @@ Apple Developer Program required.
 * [danielctull/SwiftUI-Tutorials](https://github.com/danielctull/SwiftUI-Tutorials) - All of the SwiftUI tutorials in one easy download.
 * [robbiet480/TransitPal](https://github.com/robbiet480/TransitPal) - A open source Swift app for iOS 13 that allows you to check your NFC transit card information. Written with SwiftUI.
 * [vinhnx/CombineUnsplash](https://github.com/vinhnx/CombineUnsplash) - Exploring SwiftUI + Combine + Result by using Unsplash API, with detailed code explaination
+* [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - SwiftUI Framework Learning and Usage Guide. 
 
 ## Sessions
 
