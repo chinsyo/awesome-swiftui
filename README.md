@@ -61,6 +61,7 @@ Apple Developer Program required.
 * [YOONMS/WWDCPlayer](https://github.com/YOONMS/WWDCPlayer) - WWDC19 player using SwiftUI 
 * [leavenstee/InstaFake-Swift-UI](https://github.com/leavenstee/InstaFake-Swift-UI) - Swift UI Demo for an instagram copy
 * [Dimillian/MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API
+* [mythxn/DesignCode](https://github.com/mythxn/DesignCode) - An App that show how to design a beautifully UI using SwiftUI
 * [alexdrone/DispatchStore](https://github.com/alexdrone/DispatchStore) - Package that implements an operation based multi-store à-la Flux for SwiftUI.
 * [miliPolo/SwiftUI_Jike](https://github.com/miliPolo/SwiftUI_Jike) - Build Jike App UI with SwiftUI
 * [danielctull/SwiftUI-Tutorials](https://github.com/danielctull/SwiftUI-Tutorials) - All of the SwiftUI tutorials in one easy download.
