@@ -69,6 +69,7 @@ Apple Developer Program required.
 * [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - SwiftUI Framework Learning and Usage Guide. 
 * [StevenLambion/SwiftDux](https://github.com/StevenLambion/SwiftDux) - Redux inspired predictable state management for SwiftUI applications.
 * [antgar/CombineMarbles-SwiftUI](https://github.com/antgar/CombineMarbles-SwiftUI) - Diagrams for the new Combine framework 
+* [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library
 
 ## Sessions
 
