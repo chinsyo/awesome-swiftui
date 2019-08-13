@@ -2,6 +2,8 @@
 
 A curated list of awesome SwiftUI tutorials, libraries, sessions and articles.
 
+[TOC]
+
 ## Contributing
 
 Found a SwiftUI library or snippet that you think is *awesome*? Fork this repository and send your pull request.
