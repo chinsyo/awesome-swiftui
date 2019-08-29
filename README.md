@@ -72,6 +72,11 @@ Apple Developer Program required.
 * [antgar/CombineMarbles-SwiftUI](https://github.com/antgar/CombineMarbles-SwiftUI) - Diagrams for the new Combine framework 
 * [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library
 * [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
+* [pietropizzi/GridStack](https://github.com/pietropizzi/GridStack) - A flexible grid layout view for SwiftUI
+* [nickffox/KeyboardObserving](https://github.com/nickffox/KeyboardObserving) - ⌨️A Combine-based way to observe and adjust for Keyboard notifications in SwiftUI
+* [https://github.com/SwiftUIX/GoshDarnBugs](https://github.com/SwiftUIX/GoshDarnBugs) - A collection of bugs present in the SwiftUI beta.
+* [luoxiu/CombineX](https://github.com/luoxiu/CombineX) - CombineX is an open source implementation for Apple's Combine specs.
+* [alexejn/TypeYouCard](https://github.com/alexejn/TypeYouCard) - SwiftUI Paycard form
 
 ## Sessions
 
