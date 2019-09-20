@@ -116,3 +116,4 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [Presenting UIViewControllers in SwiftUI](https://medium.com/@Johannes_Nevels/presenting-uiviewcontrollers-in-swiftui-22388616a24c) - Medium[@Johannes Nevels](https://medium.com/@Johannes_Nevels)
 * [A Week With SwiftUI](https://icalvin.dev/post/403) - iCalvin.dev
 * [SwiftUI, First Impression](https://medium.com/@ahmadfayyas/swiftui-first-impression-37a734fa6f02) - Medium[@Ahmad Fayyas](https://medium.com/@ahmadfayyas)
+* [SwiftUI & Combine: Better Together](https://medium.com/flawless-app-stories/swiftui-plus-combine-equals-love-791ad444a082) - Medium[@Peter Friese](https://medium.com/@peterfriese)
