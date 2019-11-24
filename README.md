@@ -76,6 +76,8 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [https://github.com/SwiftUIX/GoshDarnBugs](https://github.com/SwiftUIX/GoshDarnBugs) - A collection of bugs present in the SwiftUI beta.
 * [luoxiu/CombineX](https://github.com/luoxiu/CombineX) - CombineX is an open source implementation for Apple's Combine specs.
 * [alexejn/TypeYouCard](https://github.com/alexejn/TypeYouCard) - SwiftUI Paycard form
+* [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - Clean Architecture for SwiftUI demo app
+* [nalexn/ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
 
 ## Sessions
 
@@ -117,3 +119,6 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [A Week With SwiftUI](https://icalvin.dev/post/403) - iCalvin.dev
 * [SwiftUI, First Impression](https://medium.com/@ahmadfayyas/swiftui-first-impression-37a734fa6f02) - Medium[@Ahmad Fayyas](https://medium.com/@ahmadfayyas)
 * [SwiftUI & Combine: Better Together](https://medium.com/flawless-app-stories/swiftui-plus-combine-equals-love-791ad444a082) - Medium[@Peter Friese](https://medium.com/@peterfriese)
+* [Programmatic navigation in SwiftUI project](https://medium.com/flawless-app-stories/programmatic-navigation-in-swiftui-project-81200f35150) - Medium[@nalexn](https://medium.com/@nalexn)
+* [Clean Architecture for SwiftUI](https://medium.com/swlh/clean-architecture-for-swiftui-6d6c4eb1cf6a) - Medium[@nalexn](https://medium.com/@nalexn)
+* [Variadic DisposeBag for Combine subscriptions](https://medium.com/better-programming/cancelbag-d928d126e8ca) - Medium[@nalexn](https://medium.com/@nalexn)
