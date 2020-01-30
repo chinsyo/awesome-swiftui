@@ -79,6 +79,9 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - Clean Architecture for SwiftUI demo app
 * [nalexn/ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
 * [muukii/Verge](https://github.com/muukii/Verge) - iOS + Flux - Verge is a state management tools (Store, ViewModel, ORM, Reactive) on iOS App (UIKit / SwiftUI)
+* [apptekstudios/ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - A SwiftUI collection view
+* [siteline/SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI
+* [dmytro-anokhin/url-image](https://github.com/dmytro-anokhin/url-image) - Asynchronous image loading in SwiftUI
 
 ## Sessions
 
