@@ -82,6 +82,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [apptekstudios/ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - A SwiftUI collection view
 * [siteline/SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI
 * [dmytro-anokhin/url-image](https://github.com/dmytro-anokhin/url-image) - Asynchronous image loading in SwiftUI
+* [hbmartin/Directory-SwiftUI](https://github.com/hbmartin/Directory-SwiftUI) - A card interface contacts app built on Core Data and Alamofire
 
 ## Sessions
 
