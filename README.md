@@ -45,7 +45,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [SwiftUI 与 Combine 编程](https://objccn.io/products/swift-ui)
 
 ## Libraries
-
+* <img height="25" src="https://github.com/onurhuseyincantay/Hover/blob/master/HoverIcon.png"/>[Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
 * [devxoul/SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI which is introduced in WWDC19
 * [marty-suzuki/GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) - SwiftUI and Combine based GitHubSearch example.
 * [ra1028/SwiftUI-Combine-Example](https://github.com/ra1028/SwiftUI-Combine-Example) - This is an example project of SwiftUI and Combine using GitHub API.
