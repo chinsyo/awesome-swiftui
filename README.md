@@ -21,7 +21,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * WWDC 2019 [developer.apple.com/wwdc19/](https://developer.apple.com/wwdc19/)
 
 
-> Apple Developer Program required.
+> Notice: Apple Developer Program required.
 <details open>
   <summary>Beta Software <a href="https://developer.apple.com/download/">download</a></summary>
   <ul><li>Xcode 11 Beta <a href="https://developer.apple.com/services-account/download?path=/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip">Download</a></li>
