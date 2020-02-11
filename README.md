@@ -43,6 +43,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 *  [Interfacing with UIKit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)
 * [SwiftUI Cheatsheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
 * [SwiftUI 与 Combine 编程](https://objccn.io/products/swift-ui)
+* [SwiftUI by Tutorials](https://store.raywenderlich.com/products/swiftui-by-tutorials)
 
 ## Libraries
 * [devxoul/SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI which is introduced in WWDC19
