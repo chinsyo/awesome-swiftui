@@ -84,6 +84,8 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [dmytro-anokhin/url-image](https://github.com/dmytro-anokhin/url-image) - Asynchronous image loading in SwiftUI
 * [hbmartin/Directory-SwiftUI](https://github.com/hbmartin/Directory-SwiftUI) - A card interface contacts app built on Core Data and Alamofire
 * [onurhuseyincantay/Hover](https://github.com/onurhuseyincantay/Hover) - Hover an async combine supported network library
+* [joehinkle11/Lazy-Pop-SwiftUI](https://github.com/joehinkle11/Lazy-Pop-SwiftUI) Modifier that allows swiping on any part of the screen to start an interruptible pop animation to the previous view.
+* [joehinkle11/Login-with-Apple-Firebase-SwiftUI](https://github.com/joehinkle11/Login-with-Apple-Firebase-SwiftUI) SwiftUI component that handles logging in with Apple into Firebase. Complete tutorial in the README.
 
 ## Sessions
 
