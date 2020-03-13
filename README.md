@@ -73,7 +73,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
 * [pietropizzi/GridStack](https://github.com/pietropizzi/GridStack) - A flexible grid layout view for SwiftUI
 * [nickffox/KeyboardObserving](https://github.com/nickffox/KeyboardObserving) - ⌨️A Combine-based way to observe and adjust for Keyboard notifications in SwiftUI
-* [https://github.com/SwiftUIX/GoshDarnBugs](https://github.com/SwiftUIX/GoshDarnBugs) - A collection of bugs present in the SwiftUI beta.
+* [SwiftUIX/GoshDarnBugs](https://github.com/SwiftUIX/GoshDarnBugs) - A collection of bugs present in the SwiftUI beta.
 * [luoxiu/CombineX](https://github.com/luoxiu/CombineX) - CombineX is an open source implementation for Apple's Combine specs.
 * [alexejn/TypeYouCard](https://github.com/alexejn/TypeYouCard) - SwiftUI Paycard form
 * [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - Clean Architecture for SwiftUI demo app
