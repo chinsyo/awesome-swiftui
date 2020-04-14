@@ -140,8 +140,8 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [Clean Architecture for SwiftUI](https://medium.com/swlh/clean-architecture-for-swiftui-6d6c4eb1cf6a) - Medium[@nalexn](https://medium.com/@nalexn)
 * [Variadic DisposeBag for Combine subscriptions](https://medium.com/better-programming/cancelbag-d928d126e8ca) - Medium[@nalexn](https://medium.com/@nalexn)
 * [8 Amazing SwiftUI Libraries to Use in Your Next Project](https://medium.com/better-programming/8-amazing-swiftui-libraries-to-use-in-your-next-project-52efaf211143) - Medium[@rudrankriyam](https://medium.com/@rudrankriyam)
-* SwiftUI, Combine, and Firebase [[1]](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part1/) [[2]](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part2/) [[3]](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part3/) - Peter Friese@[https://peterfriese.dev/](https://peterfriese.dev/)
-* [SwiftUI + Combine = ❤️](https://peterfriese.dev/swift-combine-love/) - Peter Friese@[https://peterfriese.dev/](https://peterfriese.dev/)
+* SwiftUI, Combine, and Firebase [[1]](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part1/) [[2]](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part2/) [[3]](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part3/) - Peter Friese
+* [SwiftUI + Combine = ❤️](https://peterfriese.dev/swift-combine-love/) - Peter Friese
 * [Create a map view compatible with SwiftUI](https://docs.mapbox.com/help/tutorials/ios-swiftui/) - Mapbox
 * [SwiftUI Architectures: Model-View, Redux & MVVM](https://quickbirdstudios.com/blog/swiftui-architecture-redux-mvvm/) - QuickBird Studios
 * [Modern Dependency Injection in Swift](https://medium.com/better-programming/modern-dependency-injection-in-swift-952286b308be) - Medium[@michaellong](https://medium.com/@michaellong)
