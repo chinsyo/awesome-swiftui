@@ -8,11 +8,11 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 
 ## Index
 
-  - [Websites](#websites) 
-  - [Tutorials](#tutorials)
-  - [Libraries](#libraries)
-  - [Sessions](#sessions)
-  - [Articles](#articles)
+- [Websites](#websites) 
+- [Tutorials](#tutorials)
+- [Sessions](#sessions)
+- [Articles](#articles)
+- [Libraries](#libraries)
 
 ## Websites
 
@@ -45,56 +45,6 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [SwiftUI 与 Combine 编程](https://objccn.io/products/swift-ui)
 * [SwiftUI 编程思想](https://objccn.io/products/thinking-in-swiftui)
 * [SwiftUI by Tutorials](https://store.raywenderlich.com/products/swiftui-by-tutorials)
-
-## Libraries
-* [devxoul/SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI which is introduced in WWDC19
-* [marty-suzuki/GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) - SwiftUI and Combine based GitHubSearch example.
-* [ra1028/SwiftUI-Combine-Example](https://github.com/ra1028/SwiftUI-Combine-Example) - This is an example project of SwiftUI and Combine using GitHub API.
-* [timdonnelly/SwiftUITimeTravel](https://github.com/timdonnelly/SwiftUITimeTravel) - An experimental time traveling state store for SwiftUI
-* [alexpaul/SwiftUI-Landmarks](https://github.com/alexpaul/SwiftUI-Landmarks) - Introducing SwiftUI. A declarative way to create User Interfaces with Swift.
-* [Yohrd/iOS-Portfolio-Rodrigo](https://github.com/Yohrd/iOS-Portfolio-Rodrigo) - Portfolio criado em Swift 5.1 (Beta) e SwiftUI
-* [ra1028/SwiftUI-Flux](https://github.com/ra1028/SwiftUI-Flux) - This is a tiny experimental application using SwiftUI with Flux architecture.
-* [unixzii/SwiftUI-2048](https://github.com/unixzii/SwiftUI-2048) - A 2048 game writing with SwiftUI.
-* [agiletalk/SwiftUINote](https://github.com/agiletalk/SwiftUINote) - Simple note app using SwiftUI
-* [artemnovichkov/SwiftUI-by-Examples](https://github.com/artemnovichkov/SwiftUI-by-Examples) - Examples of new SwiftUI framework
-* [jrtibbetts/TempusRomanumII](https://github.com/jrtibbetts/TempusRomanumII) - The SwiftUI implementation of TempusRomanum
-* [hotchner/SwiftUICalculator](https://github.com/hotchner/SwiftUICalculator) - A calculator app using SwiftUI which is introduced in WWDC19
-* [YOONMS/WWDCPlayer](https://github.com/YOONMS/WWDCPlayer) - WWDC19 player using SwiftUI 
-* [leavenstee/InstaFake-Swift-UI](https://github.com/leavenstee/InstaFake-Swift-UI) - Swift UI Demo for an instagram copy
-* [Dimillian/MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API
-* [alexdrone/DispatchStore](https://github.com/alexdrone/DispatchStore) - Package that implements an operation based multi-store à-la Flux for SwiftUI.
-* [miliPolo/SwiftUI_Jike](https://github.com/miliPolo/SwiftUI_Jike) - Build Jike App UI with SwiftUI
-* [danielctull/SwiftUI-Tutorials](https://github.com/danielctull/SwiftUI-Tutorials) - All of the SwiftUI tutorials in one easy download.
-* [robbiet480/TransitPal](https://github.com/robbiet480/TransitPal) - A open source Swift app for iOS 13 that allows you to check your NFC transit card information. Written with SwiftUI.
-* [vinhnx/CombineUnsplash](https://github.com/vinhnx/CombineUnsplash) - Exploring SwiftUI + Combine + Result by using Unsplash API, with detailed code explaination
-* [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - SwiftUI Framework Learning and Usage Guide. 
-* [StevenLambion/SwiftDux](https://github.com/StevenLambion/SwiftDux) - Redux inspired predictable state management for SwiftUI applications.
-* [antgar/CombineMarbles-SwiftUI](https://github.com/antgar/CombineMarbles-SwiftUI) - Diagrams for the new Combine framework 
-* [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library
-* [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
-* [pietropizzi/GridStack](https://github.com/pietropizzi/GridStack) - A flexible grid layout view for SwiftUI
-* [nickffox/KeyboardObserving](https://github.com/nickffox/KeyboardObserving) - ⌨️A Combine-based way to observe and adjust for Keyboard notifications in SwiftUI
-* [SwiftUIX/GoshDarnBugs](https://github.com/SwiftUIX/GoshDarnBugs) - A collection of bugs present in the SwiftUI beta.
-* [luoxiu/CombineX](https://github.com/luoxiu/CombineX) - CombineX is an open source implementation for Apple's Combine specs.
-* [alexejn/TypeYouCard](https://github.com/alexejn/TypeYouCard) - SwiftUI Paycard form
-* [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - Clean Architecture for SwiftUI demo app
-* [nalexn/ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
-* [muukii/Verge](https://github.com/muukii/Verge) - iOS + Flux - Verge is a state management tools (Store, ViewModel, ORM, Reactive) on iOS App (UIKit / SwiftUI)
-* [apptekstudios/ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - A SwiftUI collection view
-* [siteline/SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI
-* [dmytro-anokhin/url-image](https://github.com/dmytro-anokhin/url-image) - Asynchronous image loading in SwiftUI
-* [hbmartin/Directory-SwiftUI](https://github.com/hbmartin/Directory-SwiftUI) - A card interface contacts app built on Core Data and Alamofire
-* [onurhuseyincantay/Hover](https://github.com/onurhuseyincantay/Hover) - Hover an async combine supported network library
-* [joehinkle11/Lazy-Pop-SwiftUI](https://github.com/joehinkle11/Lazy-Pop-SwiftUI) Modifier that allows swiping on any part of the screen to start an interruptible pop animation to the previous view.
-* [joehinkle11/Login-with-Apple-Firebase-SwiftUI](https://github.com/joehinkle11/Login-with-Apple-Firebase-SwiftUI) SwiftUI component that handles logging in with Apple into Firebase. Complete tutorial in the README.
-* [Cay-Zhang/SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) - A speech recognition framework designed for SwiftUI
-* [Zaprogramiacz/GrowingTextView](https://github.com/Zaprogramiacz/GrowingTextView) - Growing text view implementation in SwiftUI
-* [mythxn/DesignCode-SwiftUI](https://github.com/mythxn/DesignCode-SwiftUI) - 📱 An app fully written in SwiftUI showcasing beautiful design and animations.
-* [carson-katri/reddit-swiftui](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI
-* [mecid/swiftui-recipes-app](https://github.com/mecid/swiftui-recipes-app) - Recipes app written in SwiftUI using Single State Container
-* [sgr-ksmt/FireTodo](https://github.com/sgr-ksmt/FireTodo) - Simple Todo Application using SwiftUI / Firebase / Redux.
-* [caiobzen/water-reminder-swiftui](https://github.com/caiobzen/water-reminder-swiftui) - A simple Apple Watch app to remind you to drink water!
-* [simonboots/SwiftUIFourierSeries](https://github.com/simonboots/SwiftUIFourierSeries) - A Fourier Series visualisation written in Swift/SwiftUI
 
 ## Sessions
 
@@ -145,3 +95,54 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [Create a map view compatible with SwiftUI](https://docs.mapbox.com/help/tutorials/ios-swiftui/) - Mapbox
 * [SwiftUI Architectures: Model-View, Redux & MVVM](https://quickbirdstudios.com/blog/swiftui-architecture-redux-mvvm/) - QuickBird Studios
 * [Modern Dependency Injection in Swift](https://medium.com/better-programming/modern-dependency-injection-in-swift-952286b308be) - Medium[@michaellong](https://medium.com/@michaellong)
+
+## Libraries
+
+* [devxoul/SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI which is introduced in WWDC19
+* [marty-suzuki/GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) - SwiftUI and Combine based GitHubSearch example.
+* [ra1028/SwiftUI-Combine-Example](https://github.com/ra1028/SwiftUI-Combine-Example) - This is an example project of SwiftUI and Combine using GitHub API.
+* [timdonnelly/SwiftUITimeTravel](https://github.com/timdonnelly/SwiftUITimeTravel) - An experimental time traveling state store for SwiftUI
+* [alexpaul/SwiftUI-Landmarks](https://github.com/alexpaul/SwiftUI-Landmarks) - Introducing SwiftUI. A declarative way to create User Interfaces with Swift.
+* [Yohrd/iOS-Portfolio-Rodrigo](https://github.com/Yohrd/iOS-Portfolio-Rodrigo) - Portfolio criado em Swift 5.1 (Beta) e SwiftUI
+* [ra1028/SwiftUI-Flux](https://github.com/ra1028/SwiftUI-Flux) - This is a tiny experimental application using SwiftUI with Flux architecture.
+* [unixzii/SwiftUI-2048](https://github.com/unixzii/SwiftUI-2048) - A 2048 game writing with SwiftUI.
+* [agiletalk/SwiftUINote](https://github.com/agiletalk/SwiftUINote) - Simple note app using SwiftUI
+* [artemnovichkov/SwiftUI-by-Examples](https://github.com/artemnovichkov/SwiftUI-by-Examples) - Examples of new SwiftUI framework
+* [jrtibbetts/TempusRomanumII](https://github.com/jrtibbetts/TempusRomanumII) - The SwiftUI implementation of TempusRomanum
+* [hotchner/SwiftUICalculator](https://github.com/hotchner/SwiftUICalculator) - A calculator app using SwiftUI which is introduced in WWDC19
+* [YOONMS/WWDCPlayer](https://github.com/YOONMS/WWDCPlayer) - WWDC19 player using SwiftUI 
+* [leavenstee/InstaFake-Swift-UI](https://github.com/leavenstee/InstaFake-Swift-UI) - Swift UI Demo for an instagram copy
+* [Dimillian/MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API
+* [alexdrone/DispatchStore](https://github.com/alexdrone/DispatchStore) - Package that implements an operation based multi-store à-la Flux for SwiftUI.
+* [miliPolo/SwiftUI_Jike](https://github.com/miliPolo/SwiftUI_Jike) - Build Jike App UI with SwiftUI
+* [danielctull/SwiftUI-Tutorials](https://github.com/danielctull/SwiftUI-Tutorials) - All of the SwiftUI tutorials in one easy download.
+* [robbiet480/TransitPal](https://github.com/robbiet480/TransitPal) - A open source Swift app for iOS 13 that allows you to check your NFC transit card information. Written with SwiftUI.
+* [vinhnx/CombineUnsplash](https://github.com/vinhnx/CombineUnsplash) - Exploring SwiftUI + Combine + Result by using Unsplash API, with detailed code explaination
+* [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - SwiftUI Framework Learning and Usage Guide. 
+* [StevenLambion/SwiftDux](https://github.com/StevenLambion/SwiftDux) - Redux inspired predictable state management for SwiftUI applications.
+* [antgar/CombineMarbles-SwiftUI](https://github.com/antgar/CombineMarbles-SwiftUI) - Diagrams for the new Combine framework 
+* [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library
+* [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
+* [pietropizzi/GridStack](https://github.com/pietropizzi/GridStack) - A flexible grid layout view for SwiftUI
+* [nickffox/KeyboardObserving](https://github.com/nickffox/KeyboardObserving) - ⌨️A Combine-based way to observe and adjust for Keyboard notifications in SwiftUI
+* [SwiftUIX/GoshDarnBugs](https://github.com/SwiftUIX/GoshDarnBugs) - A collection of bugs present in the SwiftUI beta.
+* [luoxiu/CombineX](https://github.com/luoxiu/CombineX) - CombineX is an open source implementation for Apple's Combine specs.
+* [alexejn/TypeYouCard](https://github.com/alexejn/TypeYouCard) - SwiftUI Paycard form
+* [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - Clean Architecture for SwiftUI demo app
+* [nalexn/ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
+* [muukii/Verge](https://github.com/muukii/Verge) - iOS + Flux - Verge is a state management tools (Store, ViewModel, ORM, Reactive) on iOS App (UIKit / SwiftUI)
+* [apptekstudios/ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - A SwiftUI collection view
+* [siteline/SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI
+* [dmytro-anokhin/url-image](https://github.com/dmytro-anokhin/url-image) - Asynchronous image loading in SwiftUI
+* [hbmartin/Directory-SwiftUI](https://github.com/hbmartin/Directory-SwiftUI) - A card interface contacts app built on Core Data and Alamofire
+* [onurhuseyincantay/Hover](https://github.com/onurhuseyincantay/Hover) - Hover an async combine supported network library
+* [joehinkle11/Lazy-Pop-SwiftUI](https://github.com/joehinkle11/Lazy-Pop-SwiftUI) Modifier that allows swiping on any part of the screen to start an interruptible pop animation to the previous view.
+* [joehinkle11/Login-with-Apple-Firebase-SwiftUI](https://github.com/joehinkle11/Login-with-Apple-Firebase-SwiftUI) SwiftUI component that handles logging in with Apple into Firebase. Complete tutorial in the README.
+* [Cay-Zhang/SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) - A speech recognition framework designed for SwiftUI
+* [Zaprogramiacz/GrowingTextView](https://github.com/Zaprogramiacz/GrowingTextView) - Growing text view implementation in SwiftUI
+* [mythxn/DesignCode-SwiftUI](https://github.com/mythxn/DesignCode-SwiftUI) - 📱 An app fully written in SwiftUI showcasing beautiful design and animations.
+* [carson-katri/reddit-swiftui](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI
+* [mecid/swiftui-recipes-app](https://github.com/mecid/swiftui-recipes-app) - Recipes app written in SwiftUI using Single State Container
+* [sgr-ksmt/FireTodo](https://github.com/sgr-ksmt/FireTodo) - Simple Todo Application using SwiftUI / Firebase / Redux.
+* [caiobzen/water-reminder-swiftui](https://github.com/caiobzen/water-reminder-swiftui) - A simple Apple Watch app to remind you to drink water!
+* [simonboots/SwiftUIFourierSeries](https://github.com/simonboots/SwiftUIFourierSeries) - A Fourier Series visualisation written in Swift/SwiftUI
