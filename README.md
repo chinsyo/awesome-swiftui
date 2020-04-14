@@ -90,6 +90,11 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [Cay-Zhang/SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) - A speech recognition framework designed for SwiftUI
 * [Zaprogramiacz/GrowingTextView](https://github.com/Zaprogramiacz/GrowingTextView) - Growing text view implementation in SwiftUI
 * [mythxn/DesignCode-SwiftUI](https://github.com/mythxn/DesignCode-SwiftUI) - 📱 An app fully written in SwiftUI showcasing beautiful design and animations.
+* [carson-katri/reddit-swiftui](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI
+* [mecid/swiftui-recipes-app](https://github.com/mecid/swiftui-recipes-app) - Recipes app written in SwiftUI using Single State Container
+* [sgr-ksmt/FireTodo](https://github.com/sgr-ksmt/FireTodo) - Simple Todo Application using SwiftUI / Firebase / Redux.
+* [caiobzen/water-reminder-swiftui](https://github.com/caiobzen/water-reminder-swiftui) - A simple Apple Watch app to remind you to drink water!
+* [simonboots/SwiftUIFourierSeries](https://github.com/simonboots/SwiftUIFourierSeries) - A Fourier Series visualisation written in Swift/SwiftUI
 
 ## Sessions
 
@@ -135,3 +140,5 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [Clean Architecture for SwiftUI](https://medium.com/swlh/clean-architecture-for-swiftui-6d6c4eb1cf6a) - Medium[@nalexn](https://medium.com/@nalexn)
 * [Variadic DisposeBag for Combine subscriptions](https://medium.com/better-programming/cancelbag-d928d126e8ca) - Medium[@nalexn](https://medium.com/@nalexn)
 * [8 Amazing SwiftUI Libraries to Use in Your Next Project](https://medium.com/better-programming/8-amazing-swiftui-libraries-to-use-in-your-next-project-52efaf211143) - Medium[@rudrankriyam](https://medium.com/@rudrankriyam)
+* SwiftUI, Combine, and Firebase[1](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part1/)[2](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part2/)[3](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part3/)
+* [Create a map view compatible with SwiftUI](https://docs.mapbox.com/help/tutorials/ios-swiftui/)
