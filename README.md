@@ -43,6 +43,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 *  [Interfacing with UIKit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)
 * [SwiftUI Cheatsheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
 * [SwiftUI 与 Combine 编程](https://objccn.io/products/swift-ui)
+* [SwiftUI 编程思想](https://objccn.io/products/thinking-in-swiftui)
 * [SwiftUI by Tutorials](https://store.raywenderlich.com/products/swiftui-by-tutorials)
 
 ## Libraries
