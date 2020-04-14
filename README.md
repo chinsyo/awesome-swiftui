@@ -89,6 +89,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [joehinkle11/Login-with-Apple-Firebase-SwiftUI](https://github.com/joehinkle11/Login-with-Apple-Firebase-SwiftUI) SwiftUI component that handles logging in with Apple into Firebase. Complete tutorial in the README.
 * [Cay-Zhang/SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) - A speech recognition framework designed for SwiftUI
 * [Zaprogramiacz/GrowingTextView](https://github.com/Zaprogramiacz/GrowingTextView) - Growing text view implementation in SwiftUI
+* [mythxn/DesignCode-SwiftUI](https://github.com/mythxn/DesignCode-SwiftUI) - 📱 An app fully written in SwiftUI showcasing beautiful design and animations.
 
 ## Sessions
 
