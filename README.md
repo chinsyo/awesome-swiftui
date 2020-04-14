@@ -60,6 +60,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 
 ## Articles
 
+* An Instagram clone using SwiftUI and GraphQL [[1]](https://blog.back4app.com/2019/08/27/instagram-clone/) [[2]](https://blog.back4app.com/2019/09/03/swift-instagram-clone/) [[3]](https://blog.back4app.com/2019/09/16/instagram-clone-profile/) [[4]](https://blog.back4app.com/2019/09/26/instagram-clone-homeview/)
 * SwiftUI, Combine, and Firebase [[1]](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part1/) [[2]](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part2/) [[3]](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part3/) - Peter Friese
 * [SwiftUI + Combine = ❤️](https://peterfriese.dev/swift-combine-love/) - Peter Friese
 * [Get started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui) - Hacking with Swift
