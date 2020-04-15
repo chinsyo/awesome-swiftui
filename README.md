@@ -23,12 +23,12 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 
 > Notice: Apple Developer Program required.
 <details open>
-  <summary>Beta Software <a href="https://developer.apple.com/download/">download</a></summary>
-  <ul><li>Xcode 11 Beta <a href="https://developer.apple.com/services-account/download?path=/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip">Download</a></li>
-  <li>iOS 13 Beta <a href="https://developer.apple.com/download/#ios-restore-images-iphone-new">Download Restore Images</a></li>
-  <li>iPadOS 13 Beta <a href="https://developer.apple.com/download/#ios-restore-images-ipad-new">Download Restore Images</a></li>
-  <li>macOS Catalina 10.15 Beta <a href="https://developer.apple.com/services-account/download?path=/WWDC_2019/macOS_10.15_Developer_Beta_Access_Utility/macOSDeveloperBetaAccessUtility.dmg">Install Profile</a></li>
-  <li>watchOS 6 Beta <a href="https://developer.apple.com/services-account/download?path=/WWDC_2019/watchOS_6_beta_Configuration_Profile/watchOS_6_Beta_Profilemobileconfig.mobileconfig">Install Profile</a></li></ul>
+  <summary>Resource <a href="https://developer.apple.com/download/">download</a></summary>
+  <ul><li>Xcode 11 <a href="https://developer.apple.com/services-account/download?path=/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip">Download</a></li>
+  <li>iOS Image <a href="https://developer.apple.com/download/#ios-restore-images-iphone-new">Download restore image</a></li>
+  <li>iPadOS Image <a href="https://developer.apple.com/download/#ios-restore-images-ipad-new">Download restore image</a></li>
+  <li>macOS Catalina Image <a href="https://developer.apple.com/services-account/download?path=/WWDC_2019/macOS_10.15_Developer_Beta_Access_Utility/macOSDeveloperBetaAccessUtility.dmg">Install profile</a></li>
+  <li>watchOS Image <a href="https://developer.apple.com/services-account/download?path=/WWDC_2019/watchOS_6_beta_Configuration_Profile/watchOS_6_Beta_Profilemobileconfig.mobileconfig">Install profile</a></li></ul>
 </details>
 
 ## Tutorials
