@@ -65,6 +65,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [SwiftUI + Combine = ❤️](https://peterfriese.dev/swift-combine-love/) - - Medium[@Peter Friese](https://medium.com/@peterfriese)
 * [Get started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui) - Hacking with Swift
 * [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) - SwiftRocks
+* [SwiftUI’s relationship to UIKit and AppKit](https://wwdcbysundell.com/2019/swiftui-relationship-to-uikit-appkit/) - WWDC by Sundell
 * [A first look at SwiftUI: Apple's declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/) - WWDC by Sundell
 * [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/) - WWDC by Sundell
 * [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) - Majid's
