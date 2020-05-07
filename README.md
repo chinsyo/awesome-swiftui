@@ -148,3 +148,4 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [sgr-ksmt/FireTodo](https://github.com/sgr-ksmt/FireTodo) - Simple Todo Application using SwiftUI / Firebase / Redux.
 * [caiobzen/water-reminder-swiftui](https://github.com/caiobzen/water-reminder-swiftui) - A simple Apple Watch app to remind you to drink water!
 * [simonboots/SwiftUIFourierSeries](https://github.com/simonboots/SwiftUIFourierSeries) - A Fourier Series visualisation written in Swift/SwiftUI
+* [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults#swiftui-support) - `@State` replacement for UserDefaults.
