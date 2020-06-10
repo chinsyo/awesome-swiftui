@@ -150,3 +150,4 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [simonboots/SwiftUIFourierSeries](https://github.com/simonboots/SwiftUIFourierSeries) - A Fourier Series visualisation written in Swift/SwiftUI
 * [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults#swiftui-support) - `@State` replacement for UserDefaults.
 * [sindresorhus/Preferences](https://github.com/sindresorhus/Preferences#swiftui-support) - Create a good-looking preferences window for your macOS app in SwiftUI.
+* [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - User-customizable global keyboard shortcuts for your macOS app.
