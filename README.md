@@ -151,3 +151,4 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults#swiftui-support) - `@State` replacement for UserDefaults.
 * [sindresorhus/Preferences](https://github.com/sindresorhus/Preferences#swiftui-support) - Create a good-looking preferences window for your macOS app in SwiftUI.
 * [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - User-customizable global keyboard shortcuts for your macOS app.
+* [quassummanus/SVG-to-SwiftUI](https://github.com/quassummanus/SVG-to-SwiftUI) - SVG to SwiftUI Shape converter tool.
