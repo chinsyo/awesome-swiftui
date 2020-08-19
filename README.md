@@ -153,3 +153,4 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - User-customizable global keyboard shortcuts for your macOS app.
 * [quassummanus/SVG-to-SwiftUI](https://github.com/quassummanus/SVG-to-SwiftUI) - SVG to SwiftUI Shape converter tool.
 * [lorenzofiamingo/SharedObject](https://github.com/lorenzofiamingo/SwiftUI-SharedObject) - 🍱 A new property wrapper for SwiftUI `ObservableObject`.
+* [stleamist/BetterSafariView](https://github.com/stleamist/BetterSafariView) - A better way to present a `SFSafariViewController` or start a `ASWebAuthenticationSession` in SwiftUI.
