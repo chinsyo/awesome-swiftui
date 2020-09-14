@@ -100,6 +100,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 
 ## Libraries
 
+* [SimformSolutionsPvtLtd/SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) - 📱 An library writtern in purly in SwiftUI to show/popup toast, alert or floating message. 
 * [devxoul/SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI which is introduced in WWDC19
 * [marty-suzuki/GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) - SwiftUI and Combine based GitHubSearch example.
 * [ra1028/SwiftUI-Combine-Example](https://github.com/ra1028/SwiftUI-Combine-Example) - This is an example project of SwiftUI and Combine using GitHub API.
