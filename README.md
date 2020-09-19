@@ -155,3 +155,4 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [lorenzofiamingo/SharedObject](https://github.com/lorenzofiamingo/SwiftUI-SharedObject) - 🍱 A new property wrapper for SwiftUI `ObservableObject`.
 * [stleamist/BetterSafariView](https://github.com/stleamist/BetterSafariView) - A better way to present a `SFSafariViewController` or start a `ASWebAuthenticationSession` in SwiftUI.
 * [huybuidac/SwiftUIFontIcon](https://github.com/huybuidac/SwiftUIFontIcon) - Font icon for SwiftUI (Material icon, Ionicons, Font Awesome 5 Free)
+* [SimformSolutionsPvtLtd/SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) - 📱 An library writtern in purly in SwiftUI to show `toast, alert or floating message` with using modifier. 
