@@ -60,6 +60,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 
 ## Articles
 
+* [Easily format phone numbers entirly in SwiftUI](https://benjaminlsage.medium.com/format-phone-numbers-entirely-in-swiftui-9456f52990a1) - IcyHovercraft
 * An Instagram clone using SwiftUI and GraphQL [[1]](https://blog.back4app.com/2019/08/27/instagram-clone/) [[2]](https://blog.back4app.com/2019/09/03/swift-instagram-clone/) [[3]](https://blog.back4app.com/2019/09/16/instagram-clone-profile/) [[4]](https://blog.back4app.com/2019/09/26/instagram-clone-homeview/)
 * SwiftUI, Combine, and Firebase [[1]](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part1/) [[2]](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part2/) [[3]](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part3/) - - Medium[@Peter Friese](https://medium.com/@peterfriese)
 * [SwiftUI + Combine = ❤️](https://peterfriese.dev/swift-combine-love/) - - Medium[@Peter Friese](https://medium.com/@peterfriese)
@@ -100,6 +101,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 
 ## Libraries
 
+* [MojtabaHs/iPhoneNumberField](https://github.com/MojtabaHs/iPhoneNumberField) - A SwiftUI text field view that formats your phone number as you type
 * [devxoul/SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI which is introduced in WWDC19
 * [marty-suzuki/GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) - SwiftUI and Combine based GitHubSearch example.
 * [ra1028/SwiftUI-Combine-Example](https://github.com/ra1028/SwiftUI-Combine-Example) - This is an example project of SwiftUI and Combine using GitHub API.
@@ -158,3 +160,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [SimformSolutionsPvtLtd/SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) - 📱 An library writtern in purly in SwiftUI to show `toast, alert or floating message` with using modifier.
 * [Zaprogramiacz/MGFlipView](https://github.com/Zaprogramiacz/MGFlipView) - MGFlipView allows to create flipping view in easy way without worrying about flipping animation and flipping logic.
 * [VerticalTabView](https://github.com/lorenzofiamingo/SwiftUI-VerticalTabView) - 🔝 A native way to display paged vertical content in SwiftUI, using `TabView`.
+
+## Videos
+* [Format phone numbers in SwiftUI](https://www.youtube.com/watch?v=4SnmiWFvolM&ab_channel=WhatisiSwiftUI%3F) - What is iSwiftUI
+
