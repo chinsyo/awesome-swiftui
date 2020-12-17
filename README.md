@@ -160,6 +160,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [SimformSolutionsPvtLtd/SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) - 📱 An library writtern in purly in SwiftUI to show `toast, alert or floating message` with using modifier.
 * [Zaprogramiacz/MGFlipView](https://github.com/Zaprogramiacz/MGFlipView) - MGFlipView allows to create flipping view in easy way without worrying about flipping animation and flipping logic.
 * [VerticalTabView](https://github.com/lorenzofiamingo/SwiftUI-VerticalTabView) - 🔝 A native way to display paged vertical content in SwiftUI, using `TabView`.
+* [SwiftUIKit](https://github.com/youjinp/SwiftUIKit) - A collection of missing SwiftUI components
 
 ## Videos
 * [Format phone numbers in SwiftUI](https://www.youtube.com/watch?v=4SnmiWFvolM&ab_channel=WhatisiSwiftUI%3F) - What is iSwiftUI
