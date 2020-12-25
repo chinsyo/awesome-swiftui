@@ -103,7 +103,10 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [SwiftUI Architectures: Model-View, Redux & MVVM](https://quickbirdstudios.com/blog/swiftui-architecture-redux-mvvm/) - QuickBird Studios
 * [Modern Dependency Injection in Swift](https://medium.com/better-programming/modern-dependency-injection-in-swift-952286b308be) - Medium[@michaellong](https://medium.com/@michaellong)
 
-## Libraries
+## Sample Code
+
+*  [Building Widgets Using WidgetKit and SwiftUI](https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui) - Create widgets to show your app’s content on the Home screen, with custom intents for user-customizable settings.
+*  [Fruta: Building a Feature-Rich App with SwiftUI](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui) - Create a shared codebase to build a multiplatform app that offers widgets and an App Clip.
 
 * [MojtabaHs/iPhoneNumberField](https://github.com/MojtabaHs/iPhoneNumberField) - A SwiftUI text field view that formats your phone number as you type
 * [devxoul/SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI which is introduced in WWDC19
@@ -165,9 +168,6 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [Zaprogramiacz/MGFlipView](https://github.com/Zaprogramiacz/MGFlipView) - MGFlipView allows to create flipping view in easy way without worrying about flipping animation and flipping logic.
 * [VerticalTabView](https://github.com/lorenzofiamingo/SwiftUI-VerticalTabView) - 🔝 A native way to display paged vertical content in SwiftUI, using `TabView`.
 * [SwiftUIKit](https://github.com/youjinp/SwiftUIKit) - A collection of missing SwiftUI components
-
-*  [Building Widgets Using WidgetKit and SwiftUI](https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui) - Create widgets to show your app’s content on the Home screen, with custom intents for user-customizable settings.
-*  [Fruta: Building a Feature-Rich App with SwiftUI](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui) - Create a shared codebase to build a multiplatform app that offers widgets and an App Clip.
 
 ## Videos
 * [Format phone numbers in SwiftUI](https://www.youtube.com/watch?v=4SnmiWFvolM&ab_channel=WhatisiSwiftUI%3F) - What is iSwiftUI
