@@ -43,6 +43,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 *  [Composing Complex Interfaces](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)
 *  [Working with UI Controls](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls)
 *  [Interfacing with UIKit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)
+*  [Present your app’s content in widgets with SwiftUI views.](https://developer.apple.com/documentation/widgetkit/swiftui-views)
 * [SwiftUI Cheatsheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
 * [SwiftUI 与 Combine 编程](https://objccn.io/products/swift-ui)
 * [SwiftUI 编程思想](https://objccn.io/products/thinking-in-swiftui)
@@ -59,6 +60,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * 216 - [SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216)
 * 240 - [SwiftUI On All Devices](https://developer.apple.com/videos/play/wwdc2019/240)
 * 219 - [SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219)
+* 10041 - [What's new in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10041/)
 
 ## Articles
 
@@ -163,6 +165,9 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [Zaprogramiacz/MGFlipView](https://github.com/Zaprogramiacz/MGFlipView) - MGFlipView allows to create flipping view in easy way without worrying about flipping animation and flipping logic.
 * [VerticalTabView](https://github.com/lorenzofiamingo/SwiftUI-VerticalTabView) - 🔝 A native way to display paged vertical content in SwiftUI, using `TabView`.
 * [SwiftUIKit](https://github.com/youjinp/SwiftUIKit) - A collection of missing SwiftUI components
+
+*  [Building Widgets Using WidgetKit and SwiftUI](https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui) - Create widgets to show your app’s content on the Home screen, with custom intents for user-customizable settings.
+*  [Fruta: Building a Feature-Rich App with SwiftUI](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui) - Create a shared codebase to build a multiplatform app that offers widgets and an App Clip.
 
 ## Videos
 * [Format phone numbers in SwiftUI](https://www.youtube.com/watch?v=4SnmiWFvolM&ab_channel=WhatisiSwiftUI%3F) - What is iSwiftUI
