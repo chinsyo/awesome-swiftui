@@ -51,16 +51,41 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 
 ## Sessions
 
-* 204 - [Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)
-* 237 - [Building Custom Views with SwiftUI](https://developer.apple.com/videos/play/wwdc2019/237)
-* 238 - [Accessibility in SwiftUI](https://developer.apple.com/videos/play/wwdc2019/238)
-* 226 - [Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226)
-* 231 - [Integrating SwiftUI](https://developer.apple.com/videos/play/wwdc2019/231)
-* 233 - [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233)
-* 216 - [SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216)
-* 240 - [SwiftUI On All Devices](https://developer.apple.com/videos/play/wwdc2019/240)
-* 219 - [SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219)
-* 10041 - [What's new in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10041/)
+- WWDC 2019
+  * 204 - [Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)
+  * 237 - [Building Custom Views with SwiftUI](https://developer.apple.com/videos/play/wwdc2019/237)
+  * 238 - [Accessibility in SwiftUI](https://developer.apple.com/videos/play/wwdc2019/238)
+  * 226 - [Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226)
+  * 231 - [Integrating SwiftUI](https://developer.apple.com/videos/play/wwdc2019/231)
+  * 233 - [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233)
+  * 216 - [SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216)
+  * 240 - [SwiftUI On All Devices](https://developer.apple.com/videos/play/wwdc2019/240)
+  * 219 - [SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219)
+
+- WWDC 2020
+  * 10119 - [Introduction to SwiftUI](https://developer.apple.com/wwdc20/10119/)
+  * 10041 - [What's new in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10041/)
+  * 10031 - [Stacks, Grids, and Outlines in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10031/)
+  * 10037 - [App essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10037/)
+  * 10040 - [Data Essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10040/)
+  * 10149 - [Structure your app for SwiftUI previews](https://developer.apple.com/videos/play/wwdc2020/10149/)
+  * 10033 - [Build SwiftUI views for widgets](https://developer.apple.com/videos/play/wwdc2020/10033/)
+  * 10039 - [Build document-based apps in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10039/)
+  * 10042 - [Build SwiftUI apps for tvOS](https://developer.apple.com/videos/play/wwdc2020/10042/)
+  * 10048 - [Build complications in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10048/)
+
+- WWDC 2021
+  * 10018 - [What's new in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10018/)
+  * 10017 - [Bring Core Data concurrency to Swift and SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10017/)
+  * 10019 - [Discover concurrency in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10019/)
+  * 10119 - [SwiftUI Accessibility: Beyond the basics](https://developer.apple.com/videos/play/wwdc2021/10119/)
+  * 10220 - [Localize your SwiftUI app](https://developer.apple.com/videos/play/wwdc2021/10220/)
+  * 10021 - [Add rich graphics to your SwiftUI app](https://developer.apple.com/videos/play/wwdc2021/10021/)
+  * 10022 - [Demystify SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10022/)
+  * 10023 - [Direct and reflect focus in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10023/)
+  * 10176 - [Craft search experiences in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10176/)
+  * 10062 - [SwiftUI on the Mac: Build the fundamentals](https://developer.apple.com/videos/play/wwdc2021/10062/)
+  * 10289 - [SwiftUI on the Mac: The finishing touches](https://developer.apple.com/videos/play/wwdc2021/10289/)
 
 ## Articles
 
