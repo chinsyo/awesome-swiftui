@@ -1,4 +1,4 @@
-# Awesome SwiftUI [🧭](https://chinsyo.com/awesome-swiftui "Open in browser")
+# Awesome SwiftUI [🕶️](https://chinsyo.com/awesome-swiftui "Open in browser")
 
 A curated list of awesome SwiftUI tutorials, libraries, sessions and articles.
 
