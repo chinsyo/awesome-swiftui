@@ -193,6 +193,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [VerticalTabView](https://github.com/lorenzofiamingo/SwiftUI-VerticalTabView) - 🔝 A native way to display paged vertical content in SwiftUI, using `TabView`.
 * [SwiftUIKit](https://github.com/youjinp/SwiftUIKit) - A collection of missing SwiftUI components
 * [huseyinbagana/TransactionAlert](https://github.com/huseyinbagana/TransactionAlert) - Simple SwiftUI Alert
+* [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum) - AR app using SwiftUI for touchscreen interface
 
 ## Videos
 * [Format phone numbers in SwiftUI](https://www.youtube.com/watch?v=4SnmiWFvolM&ab_channel=WhatisiSwiftUI%3F) - What is iSwiftUI
