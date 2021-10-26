@@ -131,7 +131,6 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 ## Samples
 *  [Building Widgets Using WidgetKit and SwiftUI](https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui) - Create widgets to show your app’s content on the Home screen, with custom intents for user-customizable settings.
 *  [Fruta: Building a Feature-Rich App with SwiftUI](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui) - Create a shared codebase to build a multiplatform app that offers widgets and an App Clip.
-
 * [MojtabaHs/iPhoneNumberField](https://github.com/MojtabaHs/iPhoneNumberField) - A SwiftUI text field view that formats your phone number as you type
 * [devxoul/SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI which is introduced in WWDC19
 * [marty-suzuki/GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) - SwiftUI and Combine based GitHubSearch example.
@@ -194,6 +193,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [SwiftUIKit](https://github.com/youjinp/SwiftUIKit) - A collection of missing SwiftUI components
 * [huseyinbagana/TransactionAlert](https://github.com/huseyinbagana/TransactionAlert) - Simple SwiftUI Alert
 * [philipturner/ar-multipendulum](https://github.com/philipturner/ar-multipendulum) - AR app using SwiftUI for touchscreen interface
+* [philipturner/ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - High-level AR framework for replicating Hololens, using SwiftUI instead of Storyboard
 
 ## Videos
 * [Format phone numbers in SwiftUI](https://www.youtube.com/watch?v=4SnmiWFvolM&ab_channel=WhatisiSwiftUI%3F) - What is iSwiftUI
