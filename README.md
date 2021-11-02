@@ -48,6 +48,8 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [SwiftUI 与 Combine 编程](https://objccn.io/products/swift-ui)
 * [SwiftUI 编程思想](https://objccn.io/products/thinking-in-swiftui)
 * [SwiftUI by Tutorials](https://store.raywenderlich.com/products/swiftui-by-tutorials)
+* [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+* [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)
 
 ## Sessions
 
