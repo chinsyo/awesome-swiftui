@@ -26,7 +26,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 <details open>
   <summary>Resource <a href="https://developer.apple.com/download/">download</a></summary>
   <ul>
-  <li>Xcode 11 <a href="https://developer.apple.com/services-account/download?path=/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip">Download</a></li>
+  <li>Xcode 13 <a href="https://apps.apple.com/us/app/xcode/id497799835">Download</a></li>
   <li>iOS Image <a href="https://developer.apple.com/download/#ios-restore-images-iphone-new">Download restore image</a></li>
   <li>iPadOS Image <a href="https://developer.apple.com/download/#ios-restore-images-ipad-new">Download restore image</a></li>
   <li>macOS Catalina Image <a href="https://developer.apple.com/services-account/download?path=/WWDC_2019/macOS_10.15_Developer_Beta_Access_Utility/macOSDeveloperBetaAccessUtility.dmg">Install profile</a></li>
