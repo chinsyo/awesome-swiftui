@@ -11,6 +11,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 - [Websites](#websites) 
 - [Tutorials](#tutorials)
 - [Sessions](#sessions)
+- [Documents](#documents)
 - [Articles](#articles)
 - [Samples](#samples)
 
@@ -88,6 +89,18 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
   * 10176 - [Craft search experiences in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10176/)
   * 10062 - [SwiftUI on the Mac: Build the fundamentals](https://developer.apple.com/videos/play/wwdc2021/10062/)
   * 10289 - [SwiftUI on the Mac: The finishing touches](https://developer.apple.com/videos/play/wwdc2021/10289/)
+
+## Documents
+
+* [App Structure and Behavior](https://developer.apple.com/documentation/swiftui/app-structure-and-behavior)
+* [Views and Controls](https://developer.apple.com/documentation/swiftui/views-and-controls)
+* [View Layout and Presentation](https://developer.apple.com/documentation/swiftui/view-layout-and-presentation)
+* [Drawing and Animation](https://developer.apple.com/documentation/swiftui/drawing-and-animation)
+* [Framework Integration](https://developer.apple.com/documentation/swiftui/framework-integration)
+* [State and Data Flow](https://developer.apple.com/documentation/swiftui/state-and-data-flow)
+* [Gestures](https://developer.apple.com/documentation/swiftui/gestures)
+* [Preview in Xcode](https://developer.apple.com/documentation/swiftui/previews-in-xcode)
+
 
 ## Articles
 
