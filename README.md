@@ -76,6 +76,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
   * 10039 - [Build document-based apps in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10039/)
   * 10042 - [Build SwiftUI apps for tvOS](https://developer.apple.com/videos/play/wwdc2020/10042/)
   * 10048 - [Build complications in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10048/)
+  * 10185 - [Visually edit SwiftUI views](https://developer.apple.com/videos/play/wwdc2020/10185/)
 
 - WWDC 2021
   * 10018 - [What's new in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10018/)
