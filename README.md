@@ -212,6 +212,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [philipturner/ar-multipendulum](https://github.com/philipturner/ar-multipendulum) - AR app using SwiftUI for touchscreen interface
 * [philipturner/ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - High-level AR framework for replicating Hololens, using SwiftUI instead of Storyboard
 * [exyte/Grid](https://github.com/exyte/Grid) - Grid view inspired by CSS Grid and written with SwiftUI
+* [lorenzofiamingo/CachedAsyncImage](https://github.com/lorenzofiamingo/SwiftUI-CachedAsyncImage) - 🗃️ The simplest way to add cache to your AsyncImage.
 * [vinhnx/Clendar](https://github.com/vinhnx/Clendar) - Clendar - universal calendar app. Written in SwiftUI. Available on App Store. MIT License. 
 
 ## Videos
