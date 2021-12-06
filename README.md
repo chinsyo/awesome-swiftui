@@ -212,6 +212,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [philipturner/ar-multipendulum](https://github.com/philipturner/ar-multipendulum) - AR app using SwiftUI for touchscreen interface
 * [philipturner/ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - High-level AR framework for replicating Hololens, using SwiftUI instead of Storyboard
 * [exyte/Grid](https://github.com/exyte/Grid) - Grid view inspired by CSS Grid and written with SwiftUI
+* [vinhnx/Clendar](https://github.com/vinhnx/Clendar) - Clendar - universal calendar app. Written in SwiftUI. Available on App Store. MIT License. 
 
 ## Videos
 * [Format phone numbers in SwiftUI](https://www.youtube.com/watch?v=4SnmiWFvolM&ab_channel=WhatisiSwiftUI%3F) - What is iSwiftUI
