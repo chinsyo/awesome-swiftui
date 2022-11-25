@@ -53,6 +53,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [SwiftUI by Tutorials](https://store.raywenderlich.com/products/swiftui-by-tutorials)
 * [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 * [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)
+* [肘子的Swift记事本](https://www.fatbobman.com/)
 
 ## Sessions
 
@@ -216,6 +217,12 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [exyte/Grid](https://github.com/exyte/Grid) - Grid view inspired by CSS Grid and written with SwiftUI
 * [lorenzofiamingo/CachedAsyncImage](https://github.com/lorenzofiamingo/SwiftUI-CachedAsyncImage) - 🗃️ The simplest way to add cache to your AsyncImage.
 * [vinhnx/Clendar](https://github.com/vinhnx/Clendar) - Clendar - universal calendar app. Written in SwiftUI. Available on App Store. MIT License. 
+* [zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project) - Recreating a fully functional version of iOS 4 in SwiftUI.
+* [soundcloud/Axt](https://github.com/soundcloud/Axt) - SwiftUI view testing library
+* [siteline/SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI
+* [joogps/SlideOverCard](https://github.com/joogps/SlideOverCard) - A SwiftUI card view, made great for setup interactions.
+* [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
+* [markiv/SwiftUI-Shimmer](https://github.com/markiv/SwiftUI-Shimmer) - Shimmer is a super-light modifier that adds a shimmering effect to any SwiftUI View, for example, to show that an operation is in progress. It works well on light and dark modes, and across iOS, macOS, tvOS and watchOS.
 
 ## Videos
 * [Format phone numbers in SwiftUI](https://www.youtube.com/watch?v=4SnmiWFvolM&ab_channel=WhatisiSwiftUI%3F) - What is iSwiftUI
