@@ -146,6 +146,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [Create a map view compatible with SwiftUI](https://docs.mapbox.com/help/tutorials/ios-swiftui/) - Mapbox
 * [SwiftUI Architectures: Model-View, Redux & MVVM](https://quickbirdstudios.com/blog/swiftui-architecture-redux-mvvm/) - QuickBird Studios
 * [Modern Dependency Injection in Swift](https://medium.com/better-programming/modern-dependency-injection-in-swift-952286b308be) - Medium[@michaellong](https://medium.com/@michaellong)
+* [How to Speed Up SwiftUI Development and Testing Using PreviewSnapshots](https://doordash.engineering/2023/01/18/how-to-speed-up-swiftui-development-and-testing-using-previewsnapshots/) - DoorDash Engineering
 
 ## Samples
 *  [Building Widgets Using WidgetKit and SwiftUI](https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui) - Create widgets to show your app’s content on the Home screen, with custom intents for user-customizable settings.
