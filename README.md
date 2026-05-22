@@ -35,6 +35,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 </details>
 
 ## Tutorials
+* [TutorialSearch](https://tutorialsearch.io/browse/mobile-development/swiftui-apps) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 *  [iOS App Dev Training](https://developer.apple.com/tutorials/app-dev-training)
 *  [Creating a macOS App](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app)
 *  [Creating a watchOS App](https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app)
