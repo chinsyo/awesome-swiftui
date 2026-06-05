@@ -200,6 +200,7 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [mecid/swiftui-recipes-app](https://github.com/mecid/swiftui-recipes-app) - Recipes app written in SwiftUI using Single State Container
 * [sgr-ksmt/FireTodo](https://github.com/sgr-ksmt/FireTodo) - Simple Todo Application using SwiftUI / Firebase / Redux.
 * [caiobzen/water-reminder-swiftui](https://github.com/caiobzen/water-reminder-swiftui) - A simple Apple Watch app to remind you to drink water!
+* [megabyte0x/healthykit](https://github.com/megabyte0x/healthykit) - HealthSync is a SwiftUI iOS app for syncing selected Apple Health data from HealthKit to a private backend API.
 * [simonboots/SwiftUIFourierSeries](https://github.com/simonboots/SwiftUIFourierSeries) - A Fourier Series visualisation written in Swift/SwiftUI
 * [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults#swiftui-support) - `@State` replacement for UserDefaults.
 * [sindresorhus/Preferences](https://github.com/sindresorhus/Preferences#swiftui-support) - Create a good-looking preferences window for your macOS app in SwiftUI.
