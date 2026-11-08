@@ -149,6 +149,9 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 * [How to Speed Up SwiftUI Development and Testing Using PreviewSnapshots](https://doordash.engineering/2023/01/18/how-to-speed-up-swiftui-development-and-testing-using-previewsnapshots/) - DoorDash Engineering
 
 ## Samples
+* [Yvsleyen00941/Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes written with SwiftUI.
+* [Yvsleyen00941/Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker living in the unused corner space beside the Dock in SwiftUI.
+* [Yvsleyen00941/Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS built in SwiftUI.
 *  [Building Widgets Using WidgetKit and SwiftUI](https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui) - Create widgets to show your app’s content on the Home screen, with custom intents for user-customizable settings.
 *  [Fruta: Building a Feature-Rich App with SwiftUI](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui) - Create a shared codebase to build a multiplatform app that offers widgets and an App Clip.
 *  [Creating Accessible Views](https://developer.apple.com/documentation/accessibility/creating_accessible_views) - Make your app accessible to everyone by applying accessibility modifiers to your SwiftUI views.
