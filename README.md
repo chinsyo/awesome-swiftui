@@ -228,3 +228,6 @@ Found a SwiftUI library or snippet that you think is *awesome*? Fork this reposi
 ## Videos
 * [Format phone numbers in SwiftUI](https://www.youtube.com/watch?v=4SnmiWFvolM&ab_channel=WhatisiSwiftUI%3F) - What is iSwiftUI
 
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - What's playing on your Mac in the corner beside the Dock.
